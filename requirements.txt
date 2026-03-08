@@ -2,3 +2,4 @@ streamlit
 numpy<2.0.0
 deepface
 opencv-python-headless
+mediapipe
